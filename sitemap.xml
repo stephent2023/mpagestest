@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/</loc>
+  </url><url>
+    <loc>/systems/</loc>
+  </url><url>
+    <loc>/about-us/</loc>
+  </url><url>
+    <loc>/divisions/j1/</loc>
+  </url><url>
+    <loc>/divisions/j2/</loc>
+  </url><url>
+    <loc>/divisions/j3/</loc>
+  </url><url>
+    <loc>/divisions/j4/</loc>
+  </url><url>
+    <loc>/divisions/j5/</loc>
+  </url><url>
+    <loc>/divisions/j6/</loc>
+  </url><url>
+    <loc>/divisions/j8/</loc>
+  </url><url>
+    <loc>/divisions/j9/</loc>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/divisions/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url>
+</urlset>
